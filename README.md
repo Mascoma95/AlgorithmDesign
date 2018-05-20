@@ -1,2 +1,3 @@
 # AlgorithmDesign
-solution of homework of AlgorithmDesign course
+solution of homework of AlgorithmDesign course.
+Sapienza University
